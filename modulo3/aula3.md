@@ -1,0 +1,1 @@
+### adicionando nota da aula 3 do modulo 3 para trabalhar com Git Project e entender como funciona a mudança de Issue para Done no Kanban
